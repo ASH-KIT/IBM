@@ -7,10 +7,10 @@
 |      **Project Name**     | Skill And Job Recommender  |
 |:---------------------:|:------------------------------:|
 |         **Domain**        |  Cloud Application Development |
-|        **Team ID**        |  PNT2022TMID03826 |
+|        **Team ID**        |  PNT2022TMID46607 |
 
 
-## __Team Size : 5__
+## __Team Size : 4__
 
 
 |Team Lead   :| mohamed asfah m|
